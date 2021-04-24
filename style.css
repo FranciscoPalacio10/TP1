@@ -1,0 +1,41 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+#linkedin{
+  color: magenta;
+  font-family: Serif;
+  text-decoration: underline blue;
+  text-align: center;
+  font-size: 22px;
+  
+}
+#links {
+  color: blue;
+  font-family: Serif;
+  text-decoration: underline blue;
+  text-align: center;
+  font-size: 18px;
+}
+#portadaItem {
+  color: black;
+  font-family: Serif;
+  text-align: center;
+  font-size: 18px;
+}
+#tituloTrabajo{
+  color: black;
+  font-family: Serif;
+  text-align: center;
+  font-size: 22px;
+}
